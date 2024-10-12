@@ -18,8 +18,8 @@ public class LoginPage {
     private final static By SortDropDown = By.xpath("//*[@id=\"header_container\"]/div[2]/div/span/select");
     private final static By SortByPrice = By.xpath("//*[@id=\"header_container\"]/div[2]/div/span/select/..select class[3]");
     private final static By SauceOneSie = By.linkText("Sauce Labs Onesie");
-    private final static By AddToCartButton = By.id("add-to-cart-sauce-labs-onesie");
-    private final static By RemoveItemButton = By.id("remove-sauce-labs-onesie");
+    private final static By AddToCartButton = By.id("add-to-cart");
+    private final static By RemoveItemButton = By.id("remove");
     private final static By ShopingCart = By.xpath("//*[@id=\"shopping_cart_container\"]/a");
     private final static By CheckOutButton = By.id("checkout");
     private final static By FirstName = By.id("first-name");
