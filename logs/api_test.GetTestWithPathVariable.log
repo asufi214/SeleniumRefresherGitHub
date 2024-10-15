@@ -1,0 +1,20 @@
+[2024-10-11T22:27:15,942][INFO ][main] ------Test: api_test.GetTestWithPathVariable-----------
+[2024-10-11T22:27:18,664][DEBUG][main] {
+    
+}
+[2024-10-11T22:27:18,792][INFO ][main] -------Test End: api_test.GetTestWithPathVariable---------------
+[2024-10-11T22:27:18,895][INFO ][main] ------Test: api_test.GetTestWithPathVariable-----------
+[2024-10-11T22:27:19,203][DEBUG][main] {
+    "data": {
+        "id": 3,
+        "email": "emma.wong@reqres.in",
+        "first_name": "Emma",
+        "last_name": "Wong",
+        "avatar": "https://reqres.in/img/faces/3-image.jpg"
+    },
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+[2024-10-11T22:27:19,801][INFO ][main] -------Test End: api_test.GetTestWithPathVariable---------------

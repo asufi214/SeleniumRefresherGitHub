@@ -34,6 +34,7 @@
     <setting file="file://$PROJECT_DIR$/src/test/java/ebayhome/SearchFunction.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/test/java/calculator/MortgageCalculator.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/test/java/calculator/AmortizedLoan.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/selenium_grid/SeleniumGrid_Test1.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="2cPnH0NUfWntOIAhnLVuWk9MK9h" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -55,38 +56,35 @@
       <recent name="C:\Automation_Sep\javaRefresher24\src\test\java\automation_test" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="api_test" />
       <recent name="automation_test.parallel" />
+      <recent name="api_test" />
       <recent name="automation_test.Calculator" />
       <recent name="automation_test.mortgage_calculator_parameterized" />
       <recent name="automation_test.ebay" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.LoginPage (1)">
-    <configuration name="Execute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="execute.Execute" />
+  <component name="RunManager" selected="TestNG.AmortizedLoanPgObjParrelTest">
+    <configuration name="AmortizedLoanPgObjParrelTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="javaRefresher24" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="execute.*" />
+          <option name="PATTERN" value="automation_test.parallel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="automation_test.parallel" />
+      <option name="MAIN_CLASS_NAME" value="automation_test.parallel.AmortizedLoanPgObjParrelTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AmortizedLoanPgObjBaseClassParrelTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Automation_Sep/javaRefresher24/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="javaRefresher24" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="automation_test.Calculator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="automation_test.Calculator" />
-      <option name="MAIN_CLASS_NAME" value="automation_test.Calculator.AmortizedLoanPgObjBaseClassParrelTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -146,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.AmortizedLoanPgObjParrelTest" />
+        <item itemvalue="TestNG.C:/Automation_Sep/javaRefresher24/testng.xml" />
         <item itemvalue="TestNG.LoginPage (1)" />
         <item itemvalue="TestNG.LoginPage" />
         <item itemvalue="TestNG.CollectiblesPokemonPgObj" />
-        <item itemvalue="Application.Execute" />
-        <item itemvalue="TestNG.AmortizedLoanPgObjBaseClassParrelTest (1)" />
       </list>
     </recent_temporary>
   </component>

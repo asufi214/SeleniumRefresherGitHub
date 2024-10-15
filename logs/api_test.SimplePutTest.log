@@ -1,0 +1,9 @@
+[2024-10-11T22:27:21,993][INFO ][main] ------Test: api_test.SimplePutTest-----------
+[2024-10-11T22:27:22,036][DEBUG][main] New User Full Name: Benton Walsh II
+[2024-10-11T22:27:22,039][DEBUG][main] New User Job Title: Future Technology Architect
+[2024-10-11T22:27:22,298][DEBUG][main] {
+    "name": "Benton Walsh II",
+    "job": "Future Technology Architect",
+    "updatedAt": "2024-10-12T02:27:22.006Z"
+}
+[2024-10-11T22:27:22,313][INFO ][main] -------Test End: api_test.SimplePutTest---------------

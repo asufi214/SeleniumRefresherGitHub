@@ -1,0 +1,14 @@
+[2024-10-15T18:33:00,110][INFO ][TestNG-test-selenium_grid-2] ------Test: automation_test.parallel.AmortizedLoanPgObjBaseClassParrelTest-----------
+[2024-10-15T18:33:01,457][DEBUG][TestNG-test-selenium_grid-2] Clicking on the Loan Calculator link
+[2024-10-15T18:33:08,864][DEBUG][TestNG-test-selenium_grid-2] Typing the search: 350000
+[2024-10-15T18:33:09,296][DEBUG][TestNG-test-selenium_grid-2] Entering 30 Year for loan amount year
+[2024-10-15T18:33:09,461][DEBUG][TestNG-test-selenium_grid-2] Entering 1 month for loan amount month
+[2024-10-15T18:33:09,608][DEBUG][TestNG-test-selenium_grid-2] Entering interest rate of 7.5
+[2024-10-15T18:33:09,762][DEBUG][TestNG-test-selenium_grid-2] Selecting Quarterly from compound dropdown
+[2024-10-15T18:33:09,904][DEBUG][TestNG-test-selenium_grid-2] Selecting Every Quarter from Payback dropdown
+[2024-10-15T18:33:10,022][DEBUG][TestNG-test-selenium_grid-2] Clicking calculate button
+[2024-10-15T18:33:10,430][DEBUG][TestNG-test-selenium_grid-2] Setting a 5sec wait for pg to load
+[2024-10-15T18:33:10,434][DEBUG][TestNG-test-selenium_grid-2] Validate user landed on Loan Calculator page
+[2024-10-15T18:33:10,443][DEBUG][TestNG-test-selenium_grid-2] Validate Quarterly repayment amount of $7348.44
+[2024-10-15T18:33:10,443][DEBUG][TestNG-test-selenium_grid-2] Validating that Quarterly repayment amount is: $7348.44
+[2024-10-15T18:33:10,924][INFO ][TestNG-test-selenium_grid-2] -------Test End: automation_test.parallel.AmortizedLoanPgObjBaseClassParrelTest---------------

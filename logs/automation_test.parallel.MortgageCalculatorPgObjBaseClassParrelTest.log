@@ -1,0 +1,21 @@
+[2024-10-15T18:33:00,061][INFO ][TestNG-test-selenium_grid-1] ------Test: automation_test.parallel.MortgageCalculatorPgObjBaseClassParrelTest-----------
+[2024-10-15T18:33:01,458][DEBUG][TestNG-test-selenium_grid-1] Clicking on Mortgage Link
+[2024-10-15T18:33:03,028][DEBUG][TestNG-test-selenium_grid-1] Setting a 5sec wait for pg to load
+[2024-10-15T18:33:03,036][DEBUG][TestNG-test-selenium_grid-1] Verifying Mortgage page title
+[2024-10-15T18:33:03,053][DEBUG][TestNG-test-selenium_grid-1] Clearing the Mortgage Calculator home page
+[2024-10-15T18:33:03,161][DEBUG][TestNG-test-selenium_grid-1] Entering Home Value (350000): 350000
+[2024-10-15T18:33:03,531][DEBUG][TestNG-test-selenium_grid-1] Selecting $ for down payment amount: $
+[2024-10-15T18:33:06,072][DEBUG][TestNG-test-selenium_grid-1] Entering down payment of (70000): 70000
+[2024-10-15T18:33:06,303][DEBUG][TestNG-test-selenium_grid-1] Entering the Loan term of 30: 30
+[2024-10-15T18:33:06,556][DEBUG][TestNG-test-selenium_grid-1] Entering an interest rate of 9%: 9
+[2024-10-15T18:33:06,773][DEBUG][TestNG-test-selenium_grid-1] Select the start date month (June): Jun
+[2024-10-15T18:33:07,019][DEBUG][TestNG-test-selenium_grid-1] Entering 2024 for year: 2024
+[2024-10-15T18:33:07,347][DEBUG][TestNG-test-selenium_grid-1] Selecting % for the property tax: %
+[2024-10-15T18:33:07,460][DEBUG][TestNG-test-selenium_grid-1] Entering 7% for Property Tax: 7
+[2024-10-15T18:33:07,673][DEBUG][TestNG-test-selenium_grid-1] Enter $15000 for home insurance: 15000
+[2024-10-15T18:33:07,896][DEBUG][TestNG-test-selenium_grid-1] Selecting % for PMI Insurance: %
+[2024-10-15T18:33:08,038][DEBUG][TestNG-test-selenium_grid-1] Enter 3% for PMI Insurance: 3
+[2024-10-15T18:33:08,304][DEBUG][TestNG-test-selenium_grid-1] Clicking on Calculate button
+[2024-10-15T18:33:08,701][DEBUG][TestNG-test-selenium_grid-1] Verifying the actual monthly rate of $2,252.94
+[2024-10-15T18:33:08,786][DEBUG][TestNG-test-selenium_grid-1] Validating that the total monthly payment is: $2,252.94
+[2024-10-15T18:33:10,071][INFO ][TestNG-test-selenium_grid-1] -------Test End: automation_test.parallel.MortgageCalculatorPgObjBaseClassParrelTest---------------

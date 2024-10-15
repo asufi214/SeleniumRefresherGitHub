@@ -1,0 +1,10 @@
+[2024-10-11T22:27:21,598][INFO ][main] ------Test: api_test.SimplePostTest-----------
+[2024-10-11T22:27:21,653][DEBUG][main] New User Full Name: Richie Kub
+[2024-10-11T22:27:21,657][DEBUG][main] New User Job Title: Hospitality Analyst
+[2024-10-11T22:27:21,938][DEBUG][main] {
+    "name": "Richie Kub",
+    "job": "Hospitality Analyst",
+    "id": "342",
+    "createdAt": "2024-10-12T02:27:21.647Z"
+}
+[2024-10-11T22:27:21,972][INFO ][main] -------Test End: api_test.SimplePostTest---------------

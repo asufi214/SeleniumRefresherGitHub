@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-15T18:32:53 EDT" name="Test_Automation" finished-at="2024-10-15T18:33:10 EDT" duration-ms="17879">
+    <groups>
+    </groups>
+    <test started-at="2024-10-15T18:32:53 EDT" name="selenium_grid" finished-at="2024-10-15T18:33:10 EDT" duration-ms="17879">
+      <class name="automation_test.parallel.MortgageCalculatorPgObjBaseClassParrelTest">
+        <test-method is-config="true" signature="addThread()[pri:0, instance:automation_test.parallel.MortgageCalculatorPgObjBaseClassParrelTest@3e2943ab]" started-at="2024-10-15T18:32:53 EDT" name="addThread" finished-at="2024-10-15T18:32:59 EDT" duration-ms="6909" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addThread -->
+        <test-method is-config="true" signature="browserInitialization()[pri:0, instance:automation_test.parallel.MortgageCalculatorPgObjBaseClassParrelTest@3e2943ab]" started-at="2024-10-15T18:33:00 EDT" name="browserInitialization" finished-at="2024-10-15T18:33:01 EDT" duration-ms="1249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserInitialization -->
+        <test-method signature="verifyMortgagePage()[pri:0, instance:automation_test.parallel.MortgageCalculatorPgObjBaseClassParrelTest@3e2943ab]" started-at="2024-10-15T18:33:01 EDT" name="verifyMortgagePage" finished-at="2024-10-15T18:33:08 EDT" duration-ms="7418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMortgagePage -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:automation_test.parallel.MortgageCalculatorPgObjBaseClassParrelTest@3e2943ab]" started-at="2024-10-15T18:33:08 EDT" name="quitBrowser" finished-at="2024-10-15T18:33:10 EDT" duration-ms="1243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- automation_test.parallel.MortgageCalculatorPgObjBaseClassParrelTest -->
+      <class name="automation_test.parallel.AmortizedLoanPgObjBaseClassParrelTest">
+        <test-method is-config="true" signature="addThread()[pri:0, instance:automation_test.parallel.AmortizedLoanPgObjBaseClassParrelTest@6c67e137]" started-at="2024-10-15T18:32:53 EDT" name="addThread" finished-at="2024-10-15T18:33:00 EDT" duration-ms="7030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addThread -->
+        <test-method is-config="true" signature="browserInitialization()[pri:0, instance:automation_test.parallel.AmortizedLoanPgObjBaseClassParrelTest@6c67e137]" started-at="2024-10-15T18:33:00 EDT" name="browserInitialization" finished-at="2024-10-15T18:33:01 EDT" duration-ms="1138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserInitialization -->
+        <test-method signature="verifyAmortizedLoan()[pri:0, instance:automation_test.parallel.AmortizedLoanPgObjBaseClassParrelTest@6c67e137]" started-at="2024-10-15T18:33:01 EDT" name="verifyAmortizedLoan" finished-at="2024-10-15T18:33:10 EDT" duration-ms="9130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAmortizedLoan -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:automation_test.parallel.AmortizedLoanPgObjBaseClassParrelTest@6c67e137]" started-at="2024-10-15T18:33:10 EDT" name="quitBrowser" finished-at="2024-10-15T18:33:10 EDT" duration-ms="385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- automation_test.parallel.AmortizedLoanPgObjBaseClassParrelTest -->
+      <class name="automation_test.parallel.AmortizedLoanPgObjParrelTest">
+        <test-method is-config="true" signature="addThread()[pri:0, instance:automation_test.parallel.AmortizedLoanPgObjParrelTest@464649c]" started-at="2024-10-15T18:32:53 EDT" name="addThread" finished-at="2024-10-15T18:33:00 EDT" duration-ms="6977" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addThread -->
+        <test-method is-config="true" signature="browserInitialization()[pri:0, instance:automation_test.parallel.AmortizedLoanPgObjParrelTest@464649c]" started-at="2024-10-15T18:33:00 EDT" name="browserInitialization" finished-at="2024-10-15T18:33:01 EDT" duration-ms="1168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserInitialization -->
+        <test-method signature="verifyAmortizedLoan()[pri:0, instance:automation_test.parallel.AmortizedLoanPgObjParrelTest@464649c]" started-at="2024-10-15T18:33:01 EDT" name="verifyAmortizedLoan" finished-at="2024-10-15T18:33:07 EDT" duration-ms="6065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAmortizedLoan -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:automation_test.parallel.AmortizedLoanPgObjParrelTest@464649c]" started-at="2024-10-15T18:33:07 EDT" name="quitBrowser" finished-at="2024-10-15T18:33:10 EDT" duration-ms="3199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- automation_test.parallel.AmortizedLoanPgObjParrelTest -->
+    </test> <!-- selenium_grid -->
+  </suite> <!-- Test_Automation -->
+</testng-results>
